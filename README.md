@@ -1,8 +1,13 @@
 ## 🍰 Cute Calculator
 
 <p align="center">
-  <img src="https://media.gifdb.com/animated-aesthetic-pink-calculator-uh6cz2j8rpfm2jb8.gif"/>
+  <img 
+    src="https://media.gifdb.com/animated-aesthetic-pink-calculator-uh6cz2j8rpfm2jb8.gif"
+    width="240"
+    alt="Cute pink calculator gif"
+  />
 </p>
+
 
 ### 🌸 About the project
 This is a **cute and cozy calculator** created with a soft pink aesthetic and a clean, friendly interface.  
