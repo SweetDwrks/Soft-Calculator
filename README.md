@@ -2,11 +2,11 @@
 
 <p align="center">
   <img 
-    src="https://media.gifdb.com/animated-aesthetic-pink-calculator-uh6cz2j8rpfm2jb8.gif"
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWU0bHZ4d3N4M3N5cWc1dW9tYjZtM3FqZ2J6c2s3cGx6bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26BRv0ThflsHCqDrG/giphy.gif"
     width="240"
-    alt="Cute pink calculator gif"
   />
 </p>
+
 
 
 ### 🌸 About the project
