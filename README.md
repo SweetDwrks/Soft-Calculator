@@ -1,7 +1,7 @@
-## 🧮 Cute Calculator
+## 🍰 Cute Calculator
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="240"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2t1bGZ5Y3E3d2F2aXJ1NXR3eW9qMWd3d2t0NXR4d2h6eGd6dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26BRv0ThflsHCqDrG/giphy.gif" width="220"/>
 </p>
 
 ### 🌸 About the project
